@@ -10,7 +10,6 @@ import ParentuseContext from '../useContext/ParentuseContext'
 import BuyNow from '../component/BuyNow'
 import Home2 from '../component/Home2'
 import PaymentSuccess from "../component/PaymentSuccess";
-// import ApiComponent from "../data/Movies";
 const Home = lazy(() => import("../components/Home"));
 const SignInView = lazy(() => import("../views/account/SignIn"));
 import SignIn2 from '../views/account/SignIn2'
